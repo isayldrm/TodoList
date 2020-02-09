@@ -1,0 +1,22 @@
+{
+  "name": "electron-todo",
+  "productName": "Electron.js Todo App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "isa yildirim",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "mssql": "^6.0.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {
+    "electron": "^7.1.8",
+    "electron-packager": "^14.2.0"
+  }
+}

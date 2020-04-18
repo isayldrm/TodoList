@@ -146,7 +146,7 @@ const mainMenuTemplate = [
     ]
   },
   {
-    label: "Help",
+    label: "Yardım",
     submenu: [
       {
         label: "About Electron",
